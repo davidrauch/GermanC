@@ -29,4 +29,5 @@
 #define unsigniert unsigned
 #define nichts void
 #define veränderbar volatile
-#define während while 
+#define während while
+#define haupt main
